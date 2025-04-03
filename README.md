@@ -24,5 +24,23 @@ the-basket-app/
 ```sh
 quasar dev
 ```
+---
+The-Basket (the-basket)
+Senior-Project
 
-
+Install the dependencies:
+```
+yarn
+# or
+npm install
+```
+Start the app in development mode (hot-code reloading, error reporting, etc.)
+```
+quasar dev
+```
+Build the app for production
+```
+quasar build
+```
+Customize the configuration
+See Configuring quasar.config.js.
